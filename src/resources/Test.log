@@ -1,0 +1,2 @@
+00:20:09:323|0092-00027:SQL: {INFO} Action {select count(*) from IA_AllocationTrades
+00:20:09:486|0087-00027:SQL: {INFO} Action {select count(*) from IA_AllocationId

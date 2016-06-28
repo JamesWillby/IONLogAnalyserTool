@@ -1,0 +1,14 @@
+COMPONENTS=TradeMonitor,TradeServer,InternalAllocation
+TradeMonitor.trace1=SQL
+TradeMonitor.trace2=FRES
+TradeMonitor.trace3=FCALL
+TradeServer.trace1=SQL
+TradeServer.trace2=FRES
+TradeServer.trace3=FCALL
+TradeServer.trace4=ERROR
+TradeServer.trace4=WARNING
+InternalAllocation.trace1=SQL
+InternalAllocation.trace2=FRES
+InternalAllocation.trace3=FCALL
+InternalAllocation.trace4=ERROR
+InternalAllocation.trace4=WARNING
